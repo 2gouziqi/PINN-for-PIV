@@ -1,0 +1,308 @@
+2024-09-24 12:02:24,420 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0, Data Loss: 0.050461, Equation Loss: 96.984163, Total Loss: 97.034625, Validation Loss: 0.050804
+2024-09-24 12:02:27,148 - INFO - Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0, Final Loss: 0.05080357939004898, MSE Total: 0.027762616674105327, R2 Total: 0.8625630858380958
+2024-09-24 12:02:38,074 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 1e-06, Data Loss: 0.170634, Equation Loss: 97.026726, Total Loss: 97.197360, Validation Loss: 0.170833
+2024-09-24 12:02:39,179 - INFO - Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 1e-06, Final Loss: 0.17083333432674408, MSE Total: 0.058093314369519554, R2 Total: 0.7106067112683085
+2024-09-24 12:02:50,450 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 1e-05, Data Loss: 0.027570, Equation Loss: 95.613157, Total Loss: 95.640727, Validation Loss: 0.028235
+2024-09-24 12:02:51,653 - INFO - Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 1e-05, Final Loss: 0.02823525294661522, MSE Total: 0.010408915579319, R2 Total: 0.9478278824607275
+2024-09-24 12:03:02,656 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0.0001, Data Loss: 0.293032, Equation Loss: 97.380232, Total Loss: 97.673264, Validation Loss: 0.303410
+2024-09-24 12:03:03,738 - INFO - Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0.0001, Final Loss: 0.3034096956253052, MSE Total: 0.09058387080828349, R2 Total: 0.545047580003451
+2024-09-24 12:03:13,856 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0.001, Data Loss: 0.015401, Equation Loss: 95.713850, Total Loss: 95.729251, Validation Loss: 0.111344
+2024-09-24 12:03:14,892 - INFO - Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0.001, Final Loss: 0.11134392023086548, MSE Total: 0.006306452055772145, R2 Total: 0.9690318861814449
+2024-09-24 12:03:24,332 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0.01, Data Loss: 0.126700, Equation Loss: 95.785286, Total Loss: 95.911986, Validation Loss: 1.084107
+2024-09-24 12:03:25,386 - INFO - Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0.01, Final Loss: 1.0841065645217896, MSE Total: 0.04024398326873779, R2 Total: 0.8021125035770577
+2024-09-24 12:03:34,521 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0.1, Data Loss: 0.010915, Equation Loss: 95.832571, Total Loss: 95.843486, Validation Loss: 9.593052
+2024-09-24 12:03:35,446 - INFO - Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0.1, Final Loss: 9.59305191040039, MSE Total: 0.0035421252250671387, R2 Total: 0.9820435776278225
+2024-09-24 12:03:45,278 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0.5, Data Loss: 0.094459, Equation Loss: 96.290470, Total Loss: 96.384929, Validation Loss: 48.192108
+2024-09-24 12:03:46,328 - INFO - Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 0.5, Final Loss: 48.192108154296875, MSE Total: 0.03333601355552673, R2 Total: 0.8358795346261235
+2024-09-24 12:03:55,975 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 1, Data Loss: 0.019289, Equation Loss: 95.845205, Total Loss: 95.864494, Validation Loss: 95.849968
+2024-09-24 12:03:57,108 - INFO - Learning Rate: 1e-06, Num Steps: 1, PINN Ratio: 1, Final Loss: 95.84996795654297, MSE Total: 0.00612729291121165, R2 Total: 0.9696735672512503
+2024-09-24 12:04:13,003 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0, Data Loss: 0.018517, Equation Loss: 96.420834, Total Loss: 96.439351, Validation Loss: 0.018161
+2024-09-24 12:04:13,975 - INFO - Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0, Final Loss: 0.018161343410611153, MSE Total: 0.006397531678279241, R2 Total: 0.9678346334111606
+2024-09-24 12:04:32,012 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 1e-06, Data Loss: 0.052329, Equation Loss: 97.064114, Total Loss: 97.116443, Validation Loss: 0.052369
+2024-09-24 12:04:33,111 - INFO - Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 1e-06, Final Loss: 0.05236859619617462, MSE Total: 0.01855211208264033, R2 Total: 0.9086707821211366
+2024-09-24 12:04:52,862 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 1e-05, Data Loss: 0.034844, Equation Loss: 96.330944, Total Loss: 96.365788, Validation Loss: 0.036162
+2024-09-24 12:04:53,857 - INFO - Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 1e-05, Final Loss: 0.03616184741258621, MSE Total: 0.0086646502216657, R2 Total: 0.9573226105219493
+2024-09-24 12:05:10,265 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0.0001, Data Loss: 0.153173, Equation Loss: 96.605782, Total Loss: 96.758955, Validation Loss: 0.161488
+2024-09-24 12:05:11,356 - INFO - Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0.0001, Final Loss: 0.1614876091480255, MSE Total: 0.05039741595586141, R2 Total: 0.7523149427589972
+2024-09-24 12:05:27,591 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0.001, Data Loss: 0.002237, Equation Loss: 96.030771, Total Loss: 96.033009, Validation Loss: 0.098384
+2024-09-24 12:05:28,658 - INFO - Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0.001, Final Loss: 0.09838396310806274, MSE Total: 0.0013230610638856888, R2 Total: 0.9934800314804612
+2024-09-24 12:05:44,817 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0.01, Data Loss: 0.030266, Equation Loss: 96.636028, Total Loss: 96.666295, Validation Loss: 0.996392
+2024-09-24 12:05:45,888 - INFO - Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0.01, Final Loss: 0.9963915348052979, MSE Total: 0.010450406620899836, R2 Total: 0.9479644419000378
+2024-09-24 12:06:02,816 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0.1, Data Loss: 0.070846, Equation Loss: 96.445253, Total Loss: 96.516099, Validation Loss: 9.708121
+2024-09-24 12:06:03,869 - INFO - Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0.1, Final Loss: 9.708121299743652, MSE Total: 0.02426546812057495, R2 Total: 0.8771393597834152
+2024-09-24 12:06:20,243 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0.5, Data Loss: 0.084989, Equation Loss: 95.824635, Total Loss: 95.909623, Validation Loss: 47.952084
+2024-09-24 12:06:21,231 - INFO - Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 0.5, Final Loss: 47.952083587646484, MSE Total: 0.02564026912053426, R2 Total: 0.8696208759579211
+2024-09-24 12:06:37,203 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 1, Data Loss: 0.036102, Equation Loss: 96.347343, Total Loss: 96.383445, Validation Loss: 96.348946
+2024-09-24 12:06:38,181 - INFO - Learning Rate: 1e-06, Num Steps: 2, PINN Ratio: 1, Final Loss: 96.34894561767578, MSE Total: 0.01167669395605723, R2 Total: 0.9390176495269059
+2024-09-24 12:07:16,137 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0, Data Loss: 0.115278, Equation Loss: 96.034285, Total Loss: 96.149563, Validation Loss: 0.114456
+2024-09-24 12:07:17,206 - INFO - Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0, Final Loss: 0.11445575952529907, MSE Total: 0.03857596963644028, R2 Total: 0.8074180604494487
+2024-09-24 12:07:53,843 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 1e-06, Data Loss: 0.088352, Equation Loss: 96.621035, Total Loss: 96.709387, Validation Loss: 0.089462
+2024-09-24 12:07:54,965 - INFO - Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 1e-06, Final Loss: 0.08946157991886139, MSE Total: 0.030569488803545635, R2 Total: 0.8470186668821125
+2024-09-24 12:08:33,191 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 1e-05, Data Loss: 0.288526, Equation Loss: 95.655840, Total Loss: 95.944366, Validation Loss: 0.290652
+2024-09-24 12:08:34,221 - INFO - Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 1e-05, Final Loss: 0.2906523048877716, MSE Total: 0.09774004419644673, R2 Total: 0.4867388683869567
+2024-09-24 12:09:10,599 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0.0001, Data Loss: 0.131164, Equation Loss: 96.185364, Total Loss: 96.316528, Validation Loss: 0.140295
+2024-09-24 12:09:11,676 - INFO - Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0.0001, Final Loss: 0.14029504358768463, MSE Total: 0.04318992793560028, R2 Total: 0.7834573438270945
+2024-09-24 12:09:48,811 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0.001, Data Loss: 0.156169, Equation Loss: 96.458279, Total Loss: 96.614448, Validation Loss: 0.252125
+2024-09-24 12:09:50,382 - INFO - Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0.001, Final Loss: 0.25212520360946655, MSE Total: 0.05177592237790426, R2 Total: 0.7410807933577548
+2024-09-24 12:10:28,176 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0.01, Data Loss: 0.060772, Equation Loss: 96.294167, Total Loss: 96.354938, Validation Loss: 1.023322
+2024-09-24 12:10:29,200 - INFO - Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0.01, Final Loss: 1.023322343826294, MSE Total: 0.020509773244460423, R2 Total: 0.8990723282610761
+2024-09-24 12:11:05,982 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0.1, Data Loss: 0.037952, Equation Loss: 95.874947, Total Loss: 95.912899, Validation Loss: 9.621764
+2024-09-24 12:11:07,021 - INFO - Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0.1, Final Loss: 9.621764183044434, MSE Total: 0.01220389703909556, R2 Total: 0.9381697668629001
+2024-09-24 12:11:44,679 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0.5, Data Loss: 0.128179, Equation Loss: 96.103029, Total Loss: 96.231208, Validation Loss: 48.116707
+2024-09-24 12:11:45,638 - INFO - Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 0.5, Final Loss: 48.11670684814453, MSE Total: 0.04198682804902395, R2 Total: 0.7856190578134132
+2024-09-24 12:12:22,773 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 1, Data Loss: 0.053894, Equation Loss: 96.952929, Total Loss: 97.006823, Validation Loss: 96.949959
+2024-09-24 12:12:23,806 - INFO - Learning Rate: 1e-06, Num Steps: 5, PINN Ratio: 1, Final Loss: 96.94995880126953, MSE Total: 0.016848658521970112, R2 Total: 0.9121587693611454
+2024-09-24 12:13:18,642 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0, Data Loss: 0.150082, Equation Loss: 96.303429, Total Loss: 96.453510, Validation Loss: 0.149939
+2024-09-24 12:13:19,621 - INFO - Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0, Final Loss: 0.14993874728679657, MSE Total: 0.049756988883018494, R2 Total: 0.7494378573540473
+2024-09-24 12:14:14,352 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 1e-06, Data Loss: 0.035737, Equation Loss: 96.472769, Total Loss: 96.508506, Validation Loss: 0.035946
+2024-09-24 12:14:15,337 - INFO - Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 1e-06, Final Loss: 0.035946305841207504, MSE Total: 0.01202670360604922, R2 Total: 0.9377393818724
+2024-09-24 12:15:06,907 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 1e-05, Data Loss: 0.150912, Equation Loss: 95.874117, Total Loss: 96.025029, Validation Loss: 0.151069
+2024-09-24 12:15:07,877 - INFO - Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 1e-05, Final Loss: 0.15106946229934692, MSE Total: 0.05109621584415436, R2 Total: 0.7362008408679759
+2024-09-24 12:16:00,038 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0.0001, Data Loss: 0.047025, Equation Loss: 96.466112, Total Loss: 96.513137, Validation Loss: 0.055843
+2024-09-24 12:16:01,208 - INFO - Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0.0001, Final Loss: 0.05584322288632393, MSE Total: 0.01589496061205864, R2 Total: 0.9218957927834599
+2024-09-24 12:16:53,753 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0.001, Data Loss: 0.111693, Equation Loss: 95.847692, Total Loss: 95.959386, Validation Loss: 0.206310
+2024-09-24 12:16:54,829 - INFO - Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0.001, Final Loss: 0.2063101828098297, MSE Total: 0.036974452435970306, R2 Total: 0.8179097277012151
+2024-09-24 12:17:46,215 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0.01, Data Loss: 0.466958, Equation Loss: 96.018034, Total Loss: 96.484992, Validation Loss: 1.419508
+2024-09-24 12:17:47,143 - INFO - Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0.01, Final Loss: 1.4195078611373901, MSE Total: 0.1524675985177358, R2 Total: 0.23860975142111243
+2024-09-24 12:18:41,442 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0.1, Data Loss: 0.216091, Equation Loss: 96.667860, Total Loss: 96.883951, Validation Loss: 9.858817
+2024-09-24 12:18:42,391 - INFO - Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0.1, Final Loss: 9.858817100524902, MSE Total: 0.07104182243347168, R2 Total: 0.6503896147926286
+2024-09-24 12:19:37,805 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0.5, Data Loss: 0.053812, Equation Loss: 96.093821, Total Loss: 96.147633, Validation Loss: 48.070820
+2024-09-24 12:19:38,869 - INFO - Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 0.5, Final Loss: 48.07081985473633, MSE Total: 0.018408499658107758, R2 Total: 0.9091941447079533
+2024-09-24 12:20:32,860 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 1, Data Loss: 0.085791, Equation Loss: 96.184450, Total Loss: 96.270242, Validation Loss: 96.184196
+2024-09-24 12:20:33,842 - INFO - Learning Rate: 1e-06, Num Steps: 7, PINN Ratio: 1, Final Loss: 96.18419647216797, MSE Total: 0.028739521900812786, R2 Total: 0.8567337245815615
+2024-09-24 12:21:49,339 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0, Data Loss: 0.105464, Equation Loss: 97.434980, Total Loss: 97.540445, Validation Loss: 0.105864
+2024-09-24 12:21:50,309 - INFO - Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0, Final Loss: 0.1058640256524086, MSE Total: 0.03516199439764023, R2 Total: 0.8270711498234912
+2024-09-24 12:23:03,915 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 1e-06, Data Loss: 0.130970, Equation Loss: 96.218132, Total Loss: 96.349102, Validation Loss: 0.130775
+2024-09-24 12:23:04,799 - INFO - Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 1e-06, Final Loss: 0.13077540695667267, MSE Total: 0.043492058912913, R2 Total: 0.7835696866395924
+2024-09-24 12:24:23,945 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 1e-05, Data Loss: 0.066897, Equation Loss: 95.970434, Total Loss: 96.037331, Validation Loss: 0.067808
+2024-09-24 12:24:24,932 - INFO - Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 1e-05, Final Loss: 0.06780767440795898, MSE Total: 0.02170710762341817, R2 Total: 0.8931018085031139
+2024-09-24 12:25:36,630 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0.0001, Data Loss: 0.039548, Equation Loss: 96.574696, Total Loss: 96.614244, Validation Loss: 0.049564
+2024-09-24 12:25:37,615 - INFO - Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0.0001, Final Loss: 0.04956435412168503, MSE Total: 0.013327239702145258, R2 Total: 0.9344681045427392
+2024-09-24 12:26:49,703 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0.001, Data Loss: 0.037820, Equation Loss: 96.699408, Total Loss: 96.737228, Validation Loss: 0.134500
+2024-09-24 12:26:50,879 - INFO - Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0.001, Final Loss: 0.13449959456920624, MSE Total: 0.012785366425911585, R2 Total: 0.933219064543264
+2024-09-24 12:28:02,709 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0.01, Data Loss: 0.019367, Equation Loss: 95.865137, Total Loss: 95.884504, Validation Loss: 0.977495
+2024-09-24 12:28:03,657 - INFO - Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0.01, Final Loss: 0.9774949550628662, MSE Total: 0.006435703486204147, R2 Total: 0.968259043150263
+2024-09-24 12:29:16,356 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0.1, Data Loss: 0.022973, Equation Loss: 95.890892, Total Loss: 95.913865, Validation Loss: 9.609278
+2024-09-24 12:29:18,470 - INFO - Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0.1, Final Loss: 9.609277725219727, MSE Total: 0.007701503733793895, R2 Total: 0.9618429202687908
+2024-09-24 12:30:30,688 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0.5, Data Loss: 0.031205, Equation Loss: 97.645515, Total Loss: 97.676720, Validation Loss: 48.839890
+2024-09-24 12:30:31,623 - INFO - Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 0.5, Final Loss: 48.83988952636719, MSE Total: 0.010051961367328962, R2 Total: 0.9491192933343148
+2024-09-24 12:31:49,055 - INFO - Final Epoch: 99, Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 1, Data Loss: 0.087879, Equation Loss: 96.313913, Total Loss: 96.401792, Validation Loss: 96.315018
+2024-09-24 12:31:50,305 - INFO - Learning Rate: 1e-06, Num Steps: 10, PINN Ratio: 1, Final Loss: 96.31501770019531, MSE Total: 0.030344761908054352, R2 Total: 0.845979133109366
+2024-09-24 12:32:01,553 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0, Data Loss: 0.031967, Equation Loss: 95.171953, Total Loss: 95.203921, Validation Loss: 0.031042
+2024-09-24 12:32:02,588 - INFO - Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0, Final Loss: 0.031041720882058144, MSE Total: 0.016449329753716786, R2 Total: 0.9191530512401047
+2024-09-24 12:32:12,897 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 1e-06, Data Loss: 0.041243, Equation Loss: 95.084650, Total Loss: 95.125893, Validation Loss: 0.041199
+2024-09-24 12:32:13,882 - INFO - Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 1e-06, Final Loss: 0.04119923338294029, MSE Total: 0.018398297329743702, R2 Total: 0.9056889791070803
+2024-09-24 12:32:24,193 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 1e-05, Data Loss: 0.075705, Equation Loss: 96.234930, Total Loss: 96.310635, Validation Loss: 0.076367
+2024-09-24 12:32:25,173 - INFO - Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 1e-05, Final Loss: 0.07636676728725433, MSE Total: 0.02266526718934377, R2 Total: 0.8864984948012076
+2024-09-24 12:32:36,000 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0.0001, Data Loss: 0.064339, Equation Loss: 95.304239, Total Loss: 95.368578, Validation Loss: 0.073971
+2024-09-24 12:32:36,934 - INFO - Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0.0001, Final Loss: 0.07397133857011795, MSE Total: 0.02018263315161069, R2 Total: 0.8982220884660864
+2024-09-24 12:32:47,164 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0.001, Data Loss: 0.029632, Equation Loss: 94.781746, Total Loss: 94.811377, Validation Loss: 0.124434
+2024-09-24 12:32:48,297 - INFO - Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0.001, Final Loss: 0.12443384528160095, MSE Total: 0.01164849599202474, R2 Total: 0.9427111120917026
+2024-09-24 12:33:00,203 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0.01, Data Loss: 0.077502, Equation Loss: 96.025503, Total Loss: 96.103005, Validation Loss: 1.036583
+2024-09-24 12:33:01,267 - INFO - Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0.01, Final Loss: 1.0365827083587646, MSE Total: 0.02399011452992757, R2 Total: 0.8768045208308403
+2024-09-24 12:33:12,359 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0.1, Data Loss: 0.037977, Equation Loss: 96.316513, Total Loss: 96.354490, Validation Loss: 9.665380
+2024-09-24 12:33:13,472 - INFO - Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0.1, Final Loss: 9.665380477905273, MSE Total: 0.011100507030884424, R2 Total: 0.9452248625346268
+2024-09-24 12:33:25,671 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0.5, Data Loss: 0.068352, Equation Loss: 96.080736, Total Loss: 96.149088, Validation Loss: 48.072723
+2024-09-24 12:33:27,027 - INFO - Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 0.5, Final Loss: 48.072723388671875, MSE Total: 0.018815957009792328, R2 Total: 0.9073312916511286
+2024-09-24 12:33:36,928 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 1, Data Loss: 0.158856, Equation Loss: 95.262684, Total Loss: 95.421540, Validation Loss: 95.259956
+2024-09-24 12:33:37,931 - INFO - Learning Rate: 1e-05, Num Steps: 1, PINN Ratio: 1, Final Loss: 95.25995635986328, MSE Total: 0.06217677891254425, R2 Total: 0.6933303629647019
+2024-09-24 12:34:00,963 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0, Data Loss: 0.009207, Equation Loss: 97.131863, Total Loss: 97.141069, Validation Loss: 0.008771
+2024-09-24 12:34:03,075 - INFO - Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0, Final Loss: 0.008770997636020184, MSE Total: 0.0037836746002237, R2 Total: 0.9809822539441626
+2024-09-24 12:34:41,580 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 1e-06, Data Loss: 0.048396, Equation Loss: 96.078316, Total Loss: 96.126712, Validation Loss: 0.047361
+2024-09-24 12:34:43,864 - INFO - Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 1e-06, Final Loss: 0.04736083000898361, MSE Total: 0.016269255429506302, R2 Total: 0.9154711334708984
+2024-09-24 12:35:21,558 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 1e-05, Data Loss: 0.014935, Equation Loss: 95.768276, Total Loss: 95.783212, Validation Loss: 0.015874
+2024-09-24 12:35:23,766 - INFO - Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 1e-05, Final Loss: 0.015874257311224937, MSE Total: 0.004888007106880347, R2 Total: 0.974399509831405
+2024-09-24 12:36:02,693 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0.0001, Data Loss: 0.047055, Equation Loss: 96.859951, Total Loss: 96.907006, Validation Loss: 0.056041
+2024-09-24 12:36:04,798 - INFO - Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0.0001, Final Loss: 0.05604100972414017, MSE Total: 0.01751303921143214, R2 Total: 0.913557151864735
+2024-09-24 12:36:43,249 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0.001, Data Loss: 0.000528, Equation Loss: 96.267586, Total Loss: 96.268114, Validation Loss: 0.096797
+2024-09-24 12:36:45,571 - INFO - Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0.001, Final Loss: 0.09679721295833588, MSE Total: 0.0004812517436221242, R2 Total: 0.9975166935438494
+2024-09-24 12:37:23,871 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0.01, Data Loss: 0.203522, Equation Loss: 96.902643, Total Loss: 97.106165, Validation Loss: 1.169657
+2024-09-24 12:37:26,032 - INFO - Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0.01, Final Loss: 1.1696569919586182, MSE Total: 0.07197104891141255, R2 Total: 0.6433987323577108
+2024-09-24 12:38:04,959 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0.1, Data Loss: 0.144214, Equation Loss: 94.773920, Total Loss: 94.918134, Validation Loss: 9.605688
+2024-09-24 12:38:07,093 - INFO - Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0.1, Final Loss: 9.605688095092773, MSE Total: 0.04029755791028341, R2 Total: 0.7965509141997621
+2024-09-24 12:38:44,961 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0.5, Data Loss: 0.008949, Equation Loss: 95.223305, Total Loss: 95.232254, Validation Loss: 47.612995
+2024-09-24 12:38:46,980 - INFO - Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 0.5, Final Loss: 47.61299514770508, MSE Total: 0.00216059572994709, R2 Total: 0.9889704780726172
+2024-09-24 12:39:25,870 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 1, Data Loss: 0.036525, Equation Loss: 95.027851, Total Loss: 95.064376, Validation Loss: 95.037445
+2024-09-24 12:39:28,187 - INFO - Learning Rate: 1e-05, Num Steps: 2, PINN Ratio: 1, Final Loss: 95.03744506835938, MSE Total: 0.008734909196694693, R2 Total: 0.9552642906260201
+2024-09-24 12:40:54,371 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0, Data Loss: 0.009717, Equation Loss: 96.443287, Total Loss: 96.453004, Validation Loss: 0.009440
+2024-09-24 12:40:56,482 - INFO - Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0, Final Loss: 0.00943977851420641, MSE Total: 0.0030870046466588974, R2 Total: 0.9840907910739358
+2024-09-24 12:42:24,221 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 1e-06, Data Loss: 0.039649, Equation Loss: 97.380367, Total Loss: 97.420016, Validation Loss: 0.039751
+2024-09-24 12:42:26,368 - INFO - Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 1e-06, Final Loss: 0.03975135087966919, MSE Total: 0.01426545282204946, R2 Total: 0.9289675326299945
+2024-09-24 12:43:52,588 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 1e-05, Data Loss: 0.015189, Equation Loss: 97.234797, Total Loss: 97.249986, Validation Loss: 0.016092
+2024-09-24 12:43:54,833 - INFO - Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 1e-05, Final Loss: 0.016092348843812943, MSE Total: 0.0047760748614867525, R2 Total: 0.9763037807941677
+2024-09-24 12:45:09,944 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0.0001, Data Loss: 0.018486, Equation Loss: 95.694162, Total Loss: 95.712648, Validation Loss: 0.027880
+2024-09-24 12:45:11,850 - INFO - Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0.0001, Final Loss: 0.027880409732460976, MSE Total: 0.0058254338800907135, R2 Total: 0.9706801129635587
+2024-09-24 12:46:00,041 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0.001, Data Loss: 0.044414, Equation Loss: 96.512133, Total Loss: 96.556546, Validation Loss: 0.141033
+2024-09-24 12:46:00,940 - INFO - Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0.001, Final Loss: 0.14103299379348755, MSE Total: 0.013296964267889658, R2 Total: 0.9341810478521161
+2024-09-24 12:46:39,091 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0.01, Data Loss: 0.080102, Equation Loss: 95.914818, Total Loss: 95.994919, Validation Loss: 1.038554
+2024-09-24 12:46:40,157 - INFO - Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0.01, Final Loss: 1.0385538339614868, MSE Total: 0.028424193461736042, R2 Total: 0.8592547500387401
+2024-09-24 12:47:17,187 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0.1, Data Loss: 0.025946, Equation Loss: 96.330444, Total Loss: 96.356390, Validation Loss: 9.656434
+2024-09-24 12:47:18,074 - INFO - Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0.1, Final Loss: 9.656434059143066, MSE Total: 0.00847932199637095, R2 Total: 0.9575277030328507
+2024-09-24 12:48:01,129 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0.5, Data Loss: 0.124240, Equation Loss: 95.061245, Total Loss: 95.185485, Validation Loss: 47.590191
+2024-09-24 12:48:02,207 - INFO - Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 0.5, Final Loss: 47.59019088745117, MSE Total: 0.0413124735156695, R2 Total: 0.7881729688808203
+2024-09-24 12:48:42,835 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 1, Data Loss: 0.059731, Equation Loss: 95.907637, Total Loss: 95.967368, Validation Loss: 95.903938
+2024-09-24 12:48:43,774 - INFO - Learning Rate: 1e-05, Num Steps: 5, PINN Ratio: 1, Final Loss: 95.90393829345703, MSE Total: 0.019689738750457764, R2 Total: 0.9023239795459285
+2024-09-24 12:49:39,485 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0, Data Loss: 0.100647, Equation Loss: 95.921875, Total Loss: 96.022522, Validation Loss: 0.100682
+2024-09-24 12:49:40,789 - INFO - Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0, Final Loss: 0.10068188607692719, MSE Total: 0.03305182854334513, R2 Total: 0.836851389254628
+2024-09-24 12:50:42,510 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 1e-06, Data Loss: 0.103356, Equation Loss: 96.642895, Total Loss: 96.746251, Validation Loss: 0.102695
+2024-09-24 12:50:43,497 - INFO - Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 1e-06, Final Loss: 0.10269531607627869, MSE Total: 0.03305292626221975, R2 Total: 0.8331105594666993
+2024-09-24 12:51:39,843 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 1e-05, Data Loss: 0.046721, Equation Loss: 95.840588, Total Loss: 95.887309, Validation Loss: 0.047762
+2024-09-24 12:51:40,946 - INFO - Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 1e-05, Final Loss: 0.04776226729154587, MSE Total: 0.015386583904425303, R2 Total: 0.91972965591915
+2024-09-24 12:52:41,703 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0.0001, Data Loss: 0.016368, Equation Loss: 96.580175, Total Loss: 96.596544, Validation Loss: 0.025795
+2024-09-24 12:52:43,037 - INFO - Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0.0001, Final Loss: 0.02579503320157528, MSE Total: 0.00494833601017793, R2 Total: 0.9756320707051382
+2024-09-24 12:53:42,400 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0.001, Data Loss: 0.131244, Equation Loss: 96.504274, Total Loss: 96.635518, Validation Loss: 0.227192
+2024-09-24 12:53:43,369 - INFO - Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0.001, Final Loss: 0.22719234228134155, MSE Total: 0.043839325507481895, R2 Total: 0.7785882322141084
+2024-09-24 12:54:37,209 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0.01, Data Loss: 0.060224, Equation Loss: 97.157337, Total Loss: 97.217561, Validation Loss: 1.031613
+2024-09-24 12:54:38,317 - INFO - Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0.01, Final Loss: 1.0316134691238403, MSE Total: 0.01993991807103157, R2 Total: 0.8959591404151167
+2024-09-24 12:55:33,113 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0.1, Data Loss: 0.070638, Equation Loss: 96.131830, Total Loss: 96.202468, Validation Loss: 9.676111
+2024-09-24 12:55:34,234 - INFO - Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0.1, Final Loss: 9.676111221313477, MSE Total: 0.024184025824069977, R2 Total: 0.8810645874384044
+2024-09-24 12:56:34,075 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0.5, Data Loss: 0.056510, Equation Loss: 95.166914, Total Loss: 95.223424, Validation Loss: 47.604931
+2024-09-24 12:56:35,363 - INFO - Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 0.5, Final Loss: 47.60493087768555, MSE Total: 0.01899412398537, R2 Total: 0.9033248730759098
+2024-09-24 12:58:18,501 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 1, Data Loss: 0.075149, Equation Loss: 95.730253, Total Loss: 95.805402, Validation Loss: 95.728455
+2024-09-24 12:58:19,863 - INFO - Learning Rate: 1e-05, Num Steps: 7, PINN Ratio: 1, Final Loss: 95.72845458984375, MSE Total: 0.02452050894498825, R2 Total: 0.8776898800187638
+2024-09-24 13:00:28,506 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0, Data Loss: 0.129970, Equation Loss: 96.568439, Total Loss: 96.698410, Validation Loss: 0.129727
+2024-09-24 13:00:30,177 - INFO - Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0, Final Loss: 0.12972749769687653, MSE Total: 0.04392532507578532, R2 Total: 0.783838762162348
+2024-09-24 13:02:30,111 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 1e-06, Data Loss: 0.025793, Equation Loss: 97.082512, Total Loss: 97.108305, Validation Loss: 0.025873
+2024-09-24 13:02:31,897 - INFO - Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 1e-06, Final Loss: 0.025872640311717987, MSE Total: 0.008682338520884514, R2 Total: 0.9568631029075413
+2024-09-24 13:04:55,475 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 1e-05, Data Loss: 0.053735, Equation Loss: 95.745716, Total Loss: 95.799451, Validation Loss: 0.054001
+2024-09-24 13:04:56,910 - INFO - Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 1e-05, Final Loss: 0.054001450538635254, MSE Total: 0.0179573396841685, R2 Total: 0.9074354647524511
+2024-09-24 13:07:03,107 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0.0001, Data Loss: 0.125818, Equation Loss: 96.734333, Total Loss: 96.860151, Validation Loss: 0.134225
+2024-09-24 13:07:04,535 - INFO - Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0.0001, Final Loss: 0.13422465324401855, MSE Total: 0.04109077900648117, R2 Total: 0.7927685173515835
+2024-09-24 13:09:52,993 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0.001, Data Loss: 0.070047, Equation Loss: 95.640491, Total Loss: 95.710539, Validation Loss: 0.166210
+2024-09-24 13:09:55,097 - INFO - Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0.001, Final Loss: 0.16620950400829315, MSE Total: 0.02363770455121994, R2 Total: 0.8778919482618615
+2024-09-24 13:12:46,789 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0.01, Data Loss: 0.066811, Equation Loss: 96.046801, Total Loss: 96.113612, Validation Loss: 1.026817
+2024-09-24 13:12:49,016 - INFO - Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0.01, Final Loss: 1.0268166065216064, MSE Total: 0.022206018368403118, R2 Total: 0.886768697097855
+2024-09-24 13:15:42,323 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0.1, Data Loss: 0.080928, Equation Loss: 96.649284, Total Loss: 96.730212, Validation Loss: 9.737469
+2024-09-24 13:15:44,498 - INFO - Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0.1, Final Loss: 9.737468719482422, MSE Total: 0.026818029582500458, R2 Total: 0.8654270575538959
+2024-09-24 13:18:38,004 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0.5, Data Loss: 0.038901, Equation Loss: 95.811138, Total Loss: 95.850040, Validation Loss: 47.924206
+2024-09-24 13:18:40,291 - INFO - Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 0.5, Final Loss: 47.9242057800293, MSE Total: 0.013150612513224283, R2 Total: 0.9349879707851
+2024-09-24 13:21:21,417 - INFO - Final Epoch: 99, Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 1, Data Loss: 0.008863, Equation Loss: 95.407236, Total Loss: 95.416099, Validation Loss: 95.390755
+2024-09-24 13:21:23,675 - INFO - Learning Rate: 1e-05, Num Steps: 10, PINN Ratio: 1, Final Loss: 95.39075469970703, MSE Total: 0.003007367563744386, R2 Total: 0.9850244614027783
+2024-09-24 13:21:45,642 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0, Data Loss: 0.000340, Equation Loss: 96.361034, Total Loss: 96.361374, Validation Loss: 0.000354
+2024-09-24 13:21:47,931 - INFO - Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0, Final Loss: 0.000354237126884982, MSE Total: 0.00017142872093245387, R2 Total: 0.9991283216652797
+2024-09-24 13:22:09,940 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 1e-06, Data Loss: 0.000233, Equation Loss: 95.945168, Total Loss: 95.945400, Validation Loss: 0.000321
+2024-09-24 13:22:12,073 - INFO - Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 1e-06, Final Loss: 0.00032131653279066086, MSE Total: 9.235066439335544e-05, R2 Total: 0.9995424532013172
+2024-09-24 13:22:33,288 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 1e-05, Data Loss: 0.000348, Equation Loss: 95.471394, Total Loss: 95.471742, Validation Loss: 0.001308
+2024-09-24 13:22:35,512 - INFO - Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 1e-05, Final Loss: 0.0013081349898129702, MSE Total: 0.0005145668207357327, R2 Total: 0.9973918057287259
+2024-09-24 13:22:57,597 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0.0001, Data Loss: 0.000360, Equation Loss: 95.909800, Total Loss: 95.910160, Validation Loss: 0.009929
+2024-09-24 13:22:59,717 - INFO - Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0.0001, Final Loss: 0.009928642772138119, MSE Total: 0.0003571866157775124, R2 Total: 0.9982115236013261
+2024-09-24 13:23:20,853 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0.001, Data Loss: 0.000371, Equation Loss: 93.989632, Total Loss: 93.990002, Validation Loss: 0.094318
+2024-09-24 13:23:22,918 - INFO - Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0.001, Final Loss: 0.09431809931993484, MSE Total: 0.0018196821523209412, R2 Total: 0.99102565140082
+2024-09-24 13:23:44,426 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0.01, Data Loss: 0.002717, Equation Loss: 89.012527, Total Loss: 89.015244, Validation Loss: 0.891074
+2024-09-24 13:23:46,518 - INFO - Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0.01, Final Loss: 0.8910737633705139, MSE Total: 0.03545844554901123, R2 Total: 0.8232790273705316
+2024-09-24 13:24:08,512 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0.1, Data Loss: 0.120864, Equation Loss: 75.057079, Total Loss: 75.177944, Validation Loss: 7.591993
+2024-09-24 13:24:10,643 - INFO - Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0.1, Final Loss: 7.59199333190918, MSE Total: 0.080475648244222, R2 Total: 0.6048015838940698
+2024-09-24 13:24:31,587 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0.5, Data Loss: 0.809662, Equation Loss: 73.824266, Total Loss: 74.633928, Validation Loss: 37.188137
+2024-09-24 13:24:33,556 - INFO - Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 0.5, Final Loss: 37.18813705444336, MSE Total: 0.08616495132446289, R2 Total: 0.5709914221637434
+2024-09-24 13:24:54,453 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 1, Data Loss: 0.171222, Equation Loss: 74.123253, Total Loss: 74.294475, Validation Loss: 73.784760
+2024-09-24 13:24:56,489 - INFO - Learning Rate: 0.0001, Num Steps: 1, PINN Ratio: 1, Final Loss: 73.78475952148438, MSE Total: 0.09877366820971172, R2 Total: 0.5127891845290272
+2024-09-24 13:25:32,776 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0, Data Loss: 0.000046, Equation Loss: 96.243603, Total Loss: 96.243649, Validation Loss: 0.000046
+2024-09-24 13:25:34,413 - INFO - Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0, Final Loss: 4.57358910352923e-05, MSE Total: 0.00015835643474323055, R2 Total: 0.999201560308316
+2024-09-24 13:26:10,109 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 1e-06, Data Loss: 0.000259, Equation Loss: 96.231459, Total Loss: 96.231717, Validation Loss: 0.000347
+2024-09-24 13:26:12,228 - INFO - Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 1e-06, Final Loss: 0.0003467552305664867, MSE Total: 0.0001193289450990657, R2 Total: 0.9993977012071404
+2024-09-24 13:26:49,483 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 1e-05, Data Loss: 0.000098, Equation Loss: 96.079470, Total Loss: 96.079568, Validation Loss: 0.001064
+2024-09-24 13:26:51,699 - INFO - Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 1e-05, Final Loss: 0.0010643242858350277, MSE Total: 0.00025727192405611277, R2 Total: 0.9986894118151458
+2024-09-24 13:27:29,083 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0.0001, Data Loss: 0.000048, Equation Loss: 95.573769, Total Loss: 95.573817, Validation Loss: 0.009606
+2024-09-24 13:27:31,112 - INFO - Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0.0001, Final Loss: 0.009606300853192806, MSE Total: 3.208930138498545e-05, R2 Total: 0.9998419928205641
+2024-09-24 13:28:07,165 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0.001, Data Loss: 0.000302, Equation Loss: 94.604416, Total Loss: 94.604718, Validation Loss: 0.094883
+2024-09-24 13:28:09,301 - INFO - Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0.001, Final Loss: 0.09488347917795181, MSE Total: 0.00024382979609072208, R2 Total: 0.9987521637460156
+2024-09-24 13:28:45,026 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0.01, Data Loss: 0.002158, Equation Loss: 82.252499, Total Loss: 82.254656, Validation Loss: 0.822294
+2024-09-24 13:28:47,306 - INFO - Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0.01, Final Loss: 0.8222936391830444, MSE Total: 0.005772065992156665, R2 Total: 0.9716567825701409
+2024-09-24 13:29:23,460 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0.1, Data Loss: 0.063095, Equation Loss: 76.317091, Total Loss: 76.380186, Validation Loss: 7.639577
+2024-09-24 13:29:25,782 - INFO - Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0.1, Final Loss: 7.6395769119262695, MSE Total: 0.023797060052553814, R2 Total: 0.8787617505180666
+2024-09-24 13:30:01,128 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0.5, Data Loss: 0.106407, Equation Loss: 75.071915, Total Loss: 75.178322, Validation Loss: 37.322380
+2024-09-24 13:30:03,141 - INFO - Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 0.5, Final Loss: 37.32238006591797, MSE Total: 0.10587339599927266, R2 Total: 0.47265862686289073
+2024-09-24 13:30:39,876 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 1, Data Loss: 0.461389, Equation Loss: 70.462051, Total Loss: 70.923441, Validation Loss: 69.987488
+2024-09-24 13:30:42,189 - INFO - Learning Rate: 0.0001, Num Steps: 2, PINN Ratio: 1, Final Loss: 69.98748779296875, MSE Total: 0.11968762675921123, R2 Total: 0.3888219095742973
+2024-09-24 13:32:06,060 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0, Data Loss: 0.000024, Equation Loss: 97.857441, Total Loss: 97.857465, Validation Loss: 0.000025
+2024-09-24 13:32:08,098 - INFO - Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0, Final Loss: 2.549003875174094e-05, MSE Total: 2.4273850916263957e-05, R2 Total: 0.9998780957030945
+2024-09-24 13:33:34,235 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 1e-06, Data Loss: 0.000116, Equation Loss: 95.362343, Total Loss: 95.362459, Validation Loss: 0.000212
+2024-09-24 13:33:36,336 - INFO - Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 1e-06, Final Loss: 0.00021194256260059774, MSE Total: 8.245898061431944e-05, R2 Total: 0.9995892111431398
+2024-09-24 13:35:00,789 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 1e-05, Data Loss: 0.000192, Equation Loss: 95.806070, Total Loss: 95.806262, Validation Loss: 0.001145
+2024-09-24 13:35:03,111 - INFO - Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 1e-05, Final Loss: 0.0011450930032879114, MSE Total: 9.352236520498991e-05, R2 Total: 0.9995359507778541
+2024-09-24 13:36:28,147 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0.0001, Data Loss: 0.000083, Equation Loss: 95.827660, Total Loss: 95.827743, Validation Loss: 0.009669
+2024-09-24 13:36:30,228 - INFO - Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0.0001, Final Loss: 0.009668911807239056, MSE Total: 5.1066551047066845e-05, R2 Total: 0.9997429501381702
+2024-09-24 13:37:56,262 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0.001, Data Loss: 0.000672, Equation Loss: 95.971155, Total Loss: 95.971827, Validation Loss: 0.096606
+2024-09-24 13:37:58,344 - INFO - Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0.001, Final Loss: 0.09660647064447403, MSE Total: 0.0002453809914489587, R2 Total: 0.9987667332254433
+2024-09-24 13:39:23,324 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0.01, Data Loss: 0.004108, Equation Loss: 80.914457, Total Loss: 80.918566, Validation Loss: 0.810385
+2024-09-24 13:39:25,589 - INFO - Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0.01, Final Loss: 0.8103854060173035, MSE Total: 0.004508919393022855, R2 Total: 0.9778613939262183
+2024-09-24 13:40:52,268 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0.1, Data Loss: 0.087236, Equation Loss: 69.395487, Total Loss: 69.482723, Validation Loss: 6.977915
+2024-09-24 13:40:54,436 - INFO - Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0.1, Final Loss: 6.977915287017822, MSE Total: 0.05747602880001068, R2 Total: 0.7162344080090065
+2024-09-24 13:42:18,818 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0.5, Data Loss: 0.113426, Equation Loss: 76.261707, Total Loss: 76.375134, Validation Loss: 37.976082
+2024-09-24 13:42:19,790 - INFO - Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 0.5, Final Loss: 37.97608184814453, MSE Total: 0.04567161202430725, R2 Total: 0.774150414838838
+2024-09-24 13:42:53,013 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 1, Data Loss: 0.263750, Equation Loss: 69.737703, Total Loss: 70.001454, Validation Loss: 69.184616
+2024-09-24 13:42:53,830 - INFO - Learning Rate: 0.0001, Num Steps: 5, PINN Ratio: 1, Final Loss: 69.18461608886719, MSE Total: 0.0813354104757309, R2 Total: 0.6004367430019276
+2024-09-24 13:43:40,210 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0, Data Loss: 0.000313, Equation Loss: 96.913818, Total Loss: 96.914131, Validation Loss: 0.000332
+2024-09-24 13:43:41,025 - INFO - Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0, Final Loss: 0.0003318232193123549, MSE Total: 0.00010587760092069705, R2 Total: 0.9994766832348857
+2024-09-24 13:44:35,901 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 1e-06, Data Loss: 0.000522, Equation Loss: 97.193890, Total Loss: 97.194412, Validation Loss: 0.000646
+2024-09-24 13:44:36,781 - INFO - Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 1e-06, Final Loss: 0.000646129425149411, MSE Total: 0.00017067729883516827, R2 Total: 0.9991573791905868
+2024-09-24 13:45:31,639 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 1e-05, Data Loss: 0.000466, Equation Loss: 96.688652, Total Loss: 96.689118, Validation Loss: 0.001436
+2024-09-24 13:45:32,438 - INFO - Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 1e-05, Final Loss: 0.0014359310735017061, MSE Total: 0.00016522337682545185, R2 Total: 0.9991464812948058
+2024-09-24 13:46:21,064 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0.0001, Data Loss: 0.000092, Equation Loss: 95.714870, Total Loss: 95.714963, Validation Loss: 0.009666
+2024-09-24 13:46:22,031 - INFO - Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0.0001, Final Loss: 0.009666171856224537, MSE Total: 4.83145898518463e-05, R2 Total: 0.9997557253231243
+2024-09-24 13:47:11,316 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0.001, Data Loss: 0.000277, Equation Loss: 91.730265, Total Loss: 91.730542, Validation Loss: 0.091951
+2024-09-24 13:47:12,104 - INFO - Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0.001, Final Loss: 0.09195097535848618, MSE Total: 0.00022319122217595577, R2 Total: 0.9989010421164086
+2024-09-24 13:47:57,363 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0.01, Data Loss: 0.021135, Equation Loss: 72.248726, Total Loss: 72.269860, Validation Loss: 0.738609
+2024-09-24 13:47:58,185 - INFO - Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0.01, Final Loss: 0.7386091947555542, MSE Total: 0.018770950535933178, R2 Total: 0.9078452439058191
+2024-09-24 13:48:43,539 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0.1, Data Loss: 0.043213, Equation Loss: 74.829830, Total Loss: 74.873043, Validation Loss: 7.472258
+2024-09-24 13:48:44,357 - INFO - Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0.1, Final Loss: 7.4722580909729, MSE Total: 0.01346967120965322, R2 Total: 0.9311984186596637
+2024-09-24 13:49:32,339 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0.5, Data Loss: 0.588171, Equation Loss: 69.609333, Total Loss: 70.197504, Validation Loss: 34.979458
+2024-09-24 13:49:33,150 - INFO - Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 0.5, Final Loss: 34.97945785522461, MSE Total: 0.21700870990753174, R2 Total: -0.12438559984423792
+2024-09-24 13:50:18,713 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 1, Data Loss: 0.301921, Equation Loss: 71.321123, Total Loss: 71.623044, Validation Loss: 70.865608
+2024-09-24 13:50:19,483 - INFO - Learning Rate: 0.0001, Num Steps: 7, PINN Ratio: 1, Final Loss: 70.86560821533203, MSE Total: 0.09707637627919515, R2 Total: 0.4978597236362547
+2024-09-24 13:51:25,890 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0, Data Loss: 0.000238, Equation Loss: 96.165808, Total Loss: 96.166046, Validation Loss: 0.000253
+2024-09-24 13:51:26,828 - INFO - Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0, Final Loss: 0.00025345635367557406, MSE Total: 8.531379474637409e-05, R2 Total: 0.9995762794324228
+2024-09-24 13:52:37,069 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 1e-06, Data Loss: 0.000068, Equation Loss: 96.174236, Total Loss: 96.174304, Validation Loss: 0.000159
+2024-09-24 13:52:37,895 - INFO - Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 1e-06, Final Loss: 0.00015926802007015795, MSE Total: 2.5174374362298597e-05, R2 Total: 0.9998726794673302
+2024-09-24 13:53:46,970 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 1e-05, Data Loss: 0.000105, Equation Loss: 94.306099, Total Loss: 94.306204, Validation Loss: 0.001049
+2024-09-24 13:53:47,838 - INFO - Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 1e-05, Final Loss: 0.001048861420713365, MSE Total: 5.6972174206748605e-05, R2 Total: 0.9997177482329485
+2024-09-24 13:54:56,073 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0.0001, Data Loss: 0.000289, Equation Loss: 96.174063, Total Loss: 96.174352, Validation Loss: 0.009892
+2024-09-24 13:54:56,900 - INFO - Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0.0001, Final Loss: 0.009892201982438564, MSE Total: 8.634795085527003e-05, R2 Total: 0.9995647412846135
+2024-09-24 13:56:03,843 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0.001, Data Loss: 0.000384, Equation Loss: 92.528107, Total Loss: 92.528491, Validation Loss: 0.092844
+2024-09-24 13:56:04,750 - INFO - Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0.001, Final Loss: 0.09284429252147675, MSE Total: 0.00020997154448802272, R2 Total: 0.9989654236591158
+2024-09-24 13:57:11,700 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0.01, Data Loss: 0.001699, Equation Loss: 85.192266, Total Loss: 85.193965, Validation Loss: 0.851834
+2024-09-24 13:57:12,497 - INFO - Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0.01, Final Loss: 0.8518339991569519, MSE Total: 0.0013975983796020348, R2 Total: 0.993074113373995
+2024-09-24 13:58:19,387 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0.1, Data Loss: 0.081941, Equation Loss: 75.850058, Total Loss: 75.931999, Validation Loss: 7.631409
+2024-09-24 13:58:20,201 - INFO - Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0.1, Final Loss: 7.63140869140625, MSE Total: 0.031053354342778523, R2 Total: 0.8447882073963694
+2024-09-24 13:59:30,305 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0.5, Data Loss: 0.400243, Equation Loss: 64.001012, Total Loss: 64.401255, Validation Loss: 31.947517
+2024-09-24 13:59:31,132 - INFO - Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 0.5, Final Loss: 31.94751739501953, MSE Total: 0.17428394158681235, R2 Total: 0.14128523570872917
+2024-09-24 14:00:39,780 - INFO - Final Epoch: 99, Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 1, Data Loss: 1.382083, Equation Loss: 63.014235, Total Loss: 64.396317, Validation Loss: 62.570869
+2024-09-24 14:00:40,595 - INFO - Learning Rate: 0.0001, Num Steps: 10, PINN Ratio: 1, Final Loss: 62.57086944580078, MSE Total: 0.5205767154693604, R2 Total: -1.6003801468160537
+2024-09-24 14:00:49,295 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0, Data Loss: 0.000003, Equation Loss: 96.569559, Total Loss: 96.569562, Validation Loss: 0.000003
+2024-09-24 14:00:50,113 - INFO - Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0, Final Loss: 3.4399977266730275e-06, MSE Total: 0.00021507043857127428, R2 Total: 0.9989399353984769
+2024-09-24 14:00:58,601 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 1e-06, Data Loss: 0.000009, Equation Loss: 91.960728, Total Loss: 91.960737, Validation Loss: 0.000102
+2024-09-24 14:00:59,466 - INFO - Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 1e-06, Final Loss: 0.00010179311357205734, MSE Total: 0.006052353729804357, R2 Total: 0.9698748958947566
+2024-09-24 14:01:08,226 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 1e-05, Data Loss: 0.000006, Equation Loss: 89.487314, Total Loss: 89.487321, Validation Loss: 0.000901
+2024-09-24 14:01:09,035 - INFO - Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 1e-05, Final Loss: 0.0009007076732814312, MSE Total: 0.00625007910033067, R2 Total: 0.9688340096769007
+2024-09-24 14:01:18,191 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0.0001, Data Loss: 0.000101, Equation Loss: 21.384120, Total Loss: 21.384221, Validation Loss: 0.002056
+2024-09-24 14:01:19,028 - INFO - Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0.0001, Final Loss: 0.0020561651326715946, MSE Total: 0.0017566819054385026, R2 Total: 0.9913221995167242
+2024-09-24 14:01:28,051 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0.001, Data Loss: 0.001153, Equation Loss: 8.066270, Total Loss: 8.067423, Validation Loss: 0.008223
+2024-09-24 14:01:28,850 - INFO - Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0.001, Final Loss: 0.008223084732890129, MSE Total: 0.2183221181233724, R2 Total: -0.07852600192792718
+2024-09-24 14:01:37,863 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0.01, Data Loss: 0.000216, Equation Loss: 0.137860, Total Loss: 0.138075, Validation Loss: 0.001482
+2024-09-24 14:01:38,744 - INFO - Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0.01, Final Loss: 0.0014819734496995807, MSE Total: 2.3438547452290854, R2 Total: -10.505777392029799
+2024-09-24 14:01:47,660 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0.1, Data Loss: 0.004004, Equation Loss: 0.034928, Total Loss: 0.038932, Validation Loss: 0.006877
+2024-09-24 14:01:48,438 - INFO - Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0.1, Final Loss: 0.0068772220984101295, MSE Total: 2.0804382960001626, R2 Total: -9.21283649335583
+2024-09-24 14:01:57,276 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0.5, Data Loss: 0.009649, Equation Loss: 0.051098, Total Loss: 0.060747, Validation Loss: 0.030713
+2024-09-24 14:01:58,090 - INFO - Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 0.5, Final Loss: 0.03071325458586216, MSE Total: 1.8510715166727703, R2 Total: -8.096321704328668
+2024-09-24 14:02:06,871 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 1, Data Loss: 11.120981, Equation Loss: 0.039861, Total Loss: 11.160842, Validation Loss: 0.040590
+2024-09-24 14:02:07,709 - INFO - Learning Rate: 0.001, Num Steps: 1, PINN Ratio: 1, Final Loss: 0.040589816868305206, MSE Total: 3.148914337158203, R2 Total: -14.477789582413699
+2024-09-24 14:02:22,424 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0, Data Loss: 0.000005, Equation Loss: 97.104874, Total Loss: 97.104879, Validation Loss: 0.000005
+2024-09-24 14:02:23,281 - INFO - Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0, Final Loss: 5.485271685756743e-06, MSE Total: 0.0002082852879539132, R2 Total: 0.998947262604038
+2024-09-24 14:02:38,205 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 1e-06, Data Loss: 0.000006, Equation Loss: 93.804731, Total Loss: 93.804737, Validation Loss: 0.000100
+2024-09-24 14:02:39,025 - INFO - Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 1e-06, Final Loss: 9.957535803550854e-05, MSE Total: 1.399116445099935e-05, R2 Total: 0.9999295891550983
+2024-09-24 14:02:53,533 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 1e-05, Data Loss: 0.000006, Equation Loss: 93.767805, Total Loss: 93.767811, Validation Loss: 0.000944
+2024-09-24 14:02:54,365 - INFO - Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 1e-05, Final Loss: 0.0009435670217499137, MSE Total: 0.00012210748779277006, R2 Total: 0.9993743896621136
+2024-09-24 14:03:10,407 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0.0001, Data Loss: 0.000254, Equation Loss: 31.995566, Total Loss: 31.995820, Validation Loss: 0.003256
+2024-09-24 14:03:11,240 - INFO - Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0.0001, Final Loss: 0.0032559663522988558, MSE Total: 0.0004665679686392347, R2 Total: 0.9976332609086472
+2024-09-24 14:03:26,340 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0.001, Data Loss: 0.000528, Equation Loss: 12.229738, Total Loss: 12.230266, Validation Loss: 0.011717
+2024-09-24 14:03:27,126 - INFO - Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0.001, Final Loss: 0.011716875247657299, MSE Total: 0.21577765544255575, R2 Total: -0.061453277002185835
+2024-09-24 14:03:41,777 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0.01, Data Loss: 0.003116, Equation Loss: 2.321205, Total Loss: 2.324321, Validation Loss: 0.023590
+2024-09-24 14:03:42,578 - INFO - Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0.01, Final Loss: 0.02359023131430149, MSE Total: 1.1943663756052654, R2 Total: -4.863067218120406
+2024-09-24 14:03:57,119 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0.1, Data Loss: 0.026533, Equation Loss: 0.807484, Total Loss: 0.834017, Validation Loss: 0.097149
+2024-09-24 14:03:57,912 - INFO - Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0.1, Final Loss: 0.09714901447296143, MSE Total: 5.1550032297770185, R2 Total: -24.305273982000873
+2024-09-24 14:04:13,909 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0.5, Data Loss: 0.886029, Equation Loss: 0.618587, Total Loss: 1.504616, Validation Loss: 0.737606
+2024-09-24 14:04:14,766 - INFO - Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 0.5, Final Loss: 0.737605631351471, MSE Total: 1.8385634422302246, R2 Total: -8.178369177630657
+2024-09-24 14:04:30,236 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 1, Data Loss: 20.912465, Equation Loss: 0.148447, Total Loss: 21.060912, Validation Loss: 0.144612
+2024-09-24 14:04:31,161 - INFO - Learning Rate: 0.001, Num Steps: 2, PINN Ratio: 1, Final Loss: 0.14461234211921692, MSE Total: 0.3591341972351074, R2 Total: -0.7784178021676968
+2024-09-24 14:05:15,526 - INFO - Final Epoch: 99, Learning Rate: 0.001, Num Steps: 5, PINN Ratio: 0, Data Loss: 0.000007, Equation Loss: 96.124863, Total Loss: 96.124870, Validation Loss: 0.000008
+2024-09-24 14:05:16,423 - INFO - Learning Rate: 0.001, Num Steps: 5, PINN Ratio: 0, Final Loss: 7.804292181390338e-06, MSE Total: 1.6003456645800423e-05, R2 Total: 0.9999177247381299
